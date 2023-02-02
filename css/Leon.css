@@ -83,9 +83,10 @@ margin: 0;
 .light-headings + p{
     margin: -30px 0 0;
     font-size: 18px;
-    color: #666;
+    color: #e2d0d0;
+    font-family: fantasy;
     text-align: center;
-}
+    text-shadow: 1px 1px 2px black;}
 /* End Components  */
 
 /* Header Start */
